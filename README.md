@@ -50,7 +50,7 @@ I am a passionate developer from **[Your Location]**, creating impactful softwar
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=mmdjjahid&theme=radical" alt="streak stats" />
 </div>
 
 ---
