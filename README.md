@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-<h1 style="margin-bottom:0px;">Hi there, I'm <a href="https://github.com/mmdjjahid">mmdjjahid</a>! 👋</h1>
+<h1 style="margin-bottom:0px;">Hi there, I'm <a href="https://github.com/mmdjjahid">Jahid</a>! 👋</h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&vCenter=true&width=435&lines=Aspiring+Full+Stack+Dev;MERN+Stack+Learner;Python+Enthusiast;Ready+to+Work" alt="Typing SVG" />
 </a>
 </div>
 
@@ -20,16 +20,16 @@
 <td valign="top" width="55%">
 <h2>👨‍💻 About Me</h2>
 <p>
-I am a specialized <b>Full Stack Developer</b> from <b>Bangladesh</b> 🇧🇩. My core expertise lies in the <b>MERN Stack (MongoDB, Express, React, Node.js)</b> combined with the power of <b>Python</b>.
+I am an enthusiastic <b>Junior Full Stack Developer</b> from <b>Bangladesh</b> 🇧🇩.
 <br/><br/>
-I enjoy building scalable backend systems and crafting beautiful, responsive user interfaces using <b>Tailwind CSS</b>.
+I have recently started my journey in the tech world, building a strong foundation in the <b>MERN Stack</b> and <b>Python</b>. I am a quick learner, eager to explore new technologies and looking for opportunities to apply my skills in real-world projects.
 </p>
 <ul>
-<li>🔭 Currently building a <b>Tourism Management System</b>.</li>
-<li>🌱 Deep diving into <b>Next.js & System Architecture</b>.</li>
-<li>🐍 Integrating <b>Python</b> scripts for backend automation.</li>
-<li>💬 Ask me about <b>API Development, React Hooks & Database Design</b>.</li>
-<li>⚡ Fun fact: <b>I can center a div in 3 different ways!</b> 😎</li>
+<li>🔭 Currently building my portfolio with a <b>Social development evente platform</b>.</li>
+<li>🌱 Learning <b>React, NodeJS</b>.</li>
+<li>👯 Open to <b>Internships</b> and <b>Junior Roles</b>.</li>
+<li>💬 Ask me about <b>React, JavaScript & Backend logic</b>.</li>
+<li>⚡ Fun fact: <b>I am always ready to learn something new!</b></li>
 </ul>
 
 <br/>
@@ -38,7 +38,6 @@ I enjoy building scalable backend systems and crafting beautiful, responsive use
 <p>
 <a href="mailto:mmdjjahid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 </td>
 
@@ -66,11 +65,11 @@ I enjoy building scalable backend systems and crafting beautiful, responsive use
 
 <h2 align="center">🏆 Top Projects</h2>
 <div align="center">
-<a href="https://github.com/mmdjjahid/social_development_events_platform_client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=social_development_events_platform_client&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mmdjjahid/tourism-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=tourism-website&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/mmdjjahid/Emergency-Hotline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=Emergency-Hotline&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mmdjjahid/YOUR_SECOND_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
