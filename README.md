@@ -9,7 +9,7 @@
 <div align="center">
 <h1 style="margin-bottom:0px;">Hi there, I'm <a href="https://github.com/mmdjjahid">mmdjjahid</a>! 👋</h1>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+Enthusiast;React+%26+Node.js+Expert" alt="Typing SVG" />
 </a>
 </div>
 
@@ -19,13 +19,17 @@
 <tr>
 <td valign="top" width="55%">
 <h2>👨‍💻 About Me</h2>
-<p>I am a passionate developer from <b>Bangladesh</b> 🇧🇩. I turn coffee into code and build scalable applications using modern web technologies.</p>
+<p>
+I am a specialized <b>Full Stack Developer</b> from <b>Bangladesh</b> 🇧🇩. My core expertise lies in the <b>MERN Stack (MongoDB, Express, React, Node.js)</b> combined with the power of <b>Python</b>.
+<br/><br/>
+I enjoy building scalable backend systems and crafting beautiful, responsive user interfaces using <b>Tailwind CSS</b>.
+</p>
 <ul>
-<li>🔭 Working on a <b>Tourism Website Project</b>.</li>
-<li>🌱 Exploring <b>Next.js & System Design</b>.</li>
-<li>👯 Looking to collaborate on <b>Open Source</b>.</li>
-<li>💬 Ask me about <b>React, Node.js & Python</b>.</li>
-<li>⚡ Fun fact: <b>I love debugging more than coding!</b></li>
+<li>🔭 Currently building a <b>Tourism Management System</b>.</li>
+<li>🌱 Deep diving into <b>Next.js & System Architecture</b>.</li>
+<li>🐍 Integrating <b>Python</b> scripts for backend automation.</li>
+<li>💬 Ask me about <b>API Development, React Hooks & Database Design</b>.</li>
+<li>⚡ Fun fact: <b>I can center a div in 3 different ways!</b> 😎</li>
 </ul>
 
 <br/>
@@ -55,6 +59,18 @@
 <div align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,python,mongodb&perline=8&theme=dark" alt="My Skills" />
+</a>
+</div>
+
+<br/>
+
+<h2 align="center">🏆 Top Projects</h2>
+<div align="center">
+<a href="https://github.com/mmdjjahid/social_development_events_platform_client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=social_development_events_platform_client&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mmdjjahid/Emergency-Hotline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmdjjahid&repo=Emergency-Hotline&theme=tokyonight&hide_border=true" />
 </a>
 </div>
 
