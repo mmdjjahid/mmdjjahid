@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20a%20Full%20Stack%20Developer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME">Your Name</a>! 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/mmdjjahid">Your Name</a>! 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Learner</h3>
 
 ---
@@ -43,14 +43,14 @@ I am a passionate developer from **[Your Location]**, creating impactful softwar
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdjjahid&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdjjahid&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdjjahid&theme=radical" alt="streak stats" />
 </div>
 
 ---
@@ -70,4 +70,8 @@ I am a passionate developer from **[Your Location]**, creating impactful softwar
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmdjjahid&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 </div>
